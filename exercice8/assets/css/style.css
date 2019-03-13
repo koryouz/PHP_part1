@@ -1,0 +1,13 @@
+p {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.container {
+  background-color: grey;
+}
+
+ol {
+  list-style-type: none;
+  font-size: 50px;
+}
